@@ -1,9 +1,10 @@
-
 .display-great{
 display:inherit !important;
 }
 
-
+h1,h2{
+text-align:center;
+}
 
 header,footer,#wrapper{
 margin-left:auto;
