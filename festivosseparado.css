@@ -35,3 +35,21 @@ h1,h2{
 text-align:center;color:pink;font-size:40px;background-color:black;
   
 }
+
+<style>
+.caja-contenedor{
+width:320px;padding:10px;border:2px solid #333;border-radius:8px;text-align:center;box-shadow:4px 4px 10pxrgba(0,0,0,0.1);
+
+
+}
+.caja-contenedor img{
+max-width:100%;height:auto;display:block;border-radius:4px;
+
+
+
+}
+.caja-contenedor img:hover{
+opacity:0.8;transition:0.3s;
+}
+</style>
+	
