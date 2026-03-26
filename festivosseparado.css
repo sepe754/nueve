@@ -52,4 +52,23 @@ max-width:100%;height:auto;display:block;border-radius:4px;
 opacity:0.8;transition:0.3s;
 }
 </style>
+
+
+<style>
+.enlace-leon{
+width:320px;padding:10px;border:2px solid #333;border-radius:8px;text-align:center;box-shadow:4px 4px 10pxrgba(0,0,0,0.1);
+
+
+}
+.enlace-leon img{
+max-width:45%;height:auto;display:block;border-radius:4px;
+
+
+
+}
+.enlace-leon img:hover{
+opacity:0.8;transition:0.3s;
+}
+</style>
+	
 	
