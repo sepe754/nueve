@@ -4,32 +4,32 @@ body {
 
 table {
 
- border-collapse: collapse;
+
 }
 
 td{
-	padding:5px;font-style:arial black;font-size:30px;
+
 }
 
 th{
-	background-color:pink;font-style:italic;font-size:31px;
+
 }
 
 h3{
-	color:red;font-size:38px;
+
 }
 .green{
-	background-color:yellow;
+
 }
 
 .black{
-	background-color:pink;
+
 }
 .totalteres{
-background-color:#9c88ff;
+
 }
 .letra{
-	color:red;font-size:50px;
+
 }
 h1,h2{
 text-align:center;color:pink;font-size:40px;background-color:black;
@@ -75,13 +75,13 @@ opacity:0.8;transition:0.3s;
 .lista-horizontal{
 	background-color:#2c3e50;padding:15px;border-radius:8px;
 }
-.lista-horizontal {
+.lista-horizontal ul {
 	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
 }
-.lista-horizontal {text-decoration:none;color:white;font-family:sans-serif;font-weight:bold;
+.lista-horizontal a{text-decoration:none;color:white;font-family:sans-serif;font-weight:bold;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
-.lista-horizontal {
+.lista-horizontal a:hover{
 	color:#3498db;transform:translateY(-2px);
 }
 
